@@ -17,8 +17,8 @@ A simple Python program that controls this build is [here](https://github.com/to
 
 Built HAT Python library documentation is [here](https://buildhat.readthedocs.io/en/latest/buildhat/index.html#library)
 
-Challenges
+## Challenges
 
 - Adjust the positioning of the sample blocks so that the colour sensor detects lighter colours correctly
-- Modify the program so that it uses `python get_color_rgbi()` to make better decisions about what colour it has seen
+- Modify the program so that it uses `get_color_rgbi()` to make better decisions about what colour it has seen
 - Build a machine to sort bricks based on their colour
